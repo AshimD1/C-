@@ -8,7 +8,6 @@ int main() {
     for (int i = 0; i < 5; ++i) {
         cin >> ages[i];
     }
-    //your code goes here
     float money;
    
     int &min = *min_element(ages,ages+5 );
