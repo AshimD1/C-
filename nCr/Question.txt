@@ -1,0 +1,3 @@
+To find the nCr 
+
+nCr = n!/(n-r)!r!
